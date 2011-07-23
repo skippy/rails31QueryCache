@@ -7,6 +7,6 @@ development:
   adapter: mysql2
   encoding: utf8
   pool: 8
-  username: root2
+  username: root
   database: rails31_development
 

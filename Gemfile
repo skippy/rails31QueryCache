@@ -1,9 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', :path => "/Users/adam/dev/github/rails"
-
-# Bundle edge Rails instead:
-#gem 'rails',     :git => 'git://github.com/rails/rails.git'
+gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
 # gem 'sqlite3'
 gem 'mysql2'
